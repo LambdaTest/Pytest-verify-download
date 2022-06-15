@@ -1,6 +1,6 @@
 # How to verify file download in automation test in Pytest on [LambdaTest](https://www.lambdatest.com/?utm_source=github&utm_medium=repo&utm_campaign=Pytest-verify-download)
 
-If you want to verify file download in automation test in Pytest on LambdaTest, you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Python-UnitTest-Selenium).
+If you want to verify file download in automation test in Pytest on LambdaTest, you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Pytest-Selenium-sample).
 
 # Steps:
 
