@@ -1,7 +1,6 @@
 # Run Pytest Verify Download Tests on TestMu AI (Formerly LambdaTest)
 
-[![TestMu AI](https://img.shields.io/badge/TestMu%20AI-Formerly%20LambdaTest-blue)](https://www.testmuai.com) [![TestMu AI Automation Testing](https://img.shields.io/badge/Automation-Cloud%20Testing-brightgreen)](https://www.testmuai.com/online-selenium-grid/)
-
+ 
 If you want to verify file download in automation test in Pytest on TestMu AI (Formerly LambdaTest), you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Pytest-Selenium-sample).
 
 ## Getting Started
