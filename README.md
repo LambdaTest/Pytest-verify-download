@@ -24,6 +24,11 @@ With TestMu AI (Formerly LambdaTest), you can run Pytest Verify Download Tests a
 - Python 3.x and pip
 - A TestMu AI (Formerly LambdaTest) account with your username and access key
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
+
 ## Step 1: Add test case
 
 You can use the following testcase and save it as `verify_download.py`:
