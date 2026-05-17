@@ -1,17 +1,23 @@
 # Run Pytest Verify Download Tests on TestMu AI (Formerly LambdaTest)
 
- 
-If you want to verify file download in automation test in Pytest on TestMu AI (Formerly LambdaTest), you can follow the below steps. You can refer to sample test repo [here](https://github.com/LambdaTest/Pytest-Selenium-sample).
+<p align="center">
+  <a href="https://www.testmuai.com/"><img src="https://img.shields.io/badge/MADE%20BY%20TestMu%20AI-000000.svg?style=for-the-badge&labelColor=000" alt="Made by TestMu AI"></a>
+  <a href="https://community.testmuai.com/"><img src="https://img.shields.io/badge/Join%20the%20community-blueviolet.svg?style=for-the-badge&labelColor=000000" alt="Community"></a>
+</p>
 
 ## Getting Started
 
-TestMu AI (Formerly LambdaTest) is an AI-native, multi-agent quality engineering platform. Run your Pytest verify download tests at scale on a cloud grid of 3000+ real browsers and OS combinations.
+[TestMu AI](https://www.testmuai.com/) (Formerly LambdaTest) is the world's first full-stack AI Agentic Quality Engineering platform that empowers teams to test intelligently, smarter, and ship faster. Built for scale, it offers a full-stack testing cloud with 10K+ real devices and 3,000+ browsers. With AI-native test management, MCP servers, and agent-based automation, TestMu AI supports Selenium, Appium, Playwright, and all major frameworks.
 
-1. **Sign up**: Create a free account at [testmuai.com](https://www.testmuai.com)
-2. **Docs**: See the [TestMu AI documentation](https://www.testmuai.com/support/docs/) to get started quickly.
+With TestMu AI (Formerly LambdaTest), you can run Pytest verify download tests across real browsers and operating systems.
 
-# Steps:
+- [Sign up on TestMu AI](https://www.testmuai.com/register/) (Formerly LambdaTest).
+- Follow the [TestMu AI Documentation](https://www.testmuai.com/support/docs/) for the full setup walkthrough.
 
+### Prerequisites
+
+- Python 3.x and pip
+- A TestMu AI (Formerly LambdaTest) account with your username and access key
 
 ## Step 1: Add test case
 
